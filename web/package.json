@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "\"My First Server\"",
+  "main": "web.js",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "[\"Node\"",
+    "\"Express\"]"
+  ],
+  "author": "\"Manoj\"",
+  "license": "\"Apache License 2.0\"",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1",
+    "method-override": "^2.3.1",
+    "serve-favicon": "^2.2.0"
+  }
+}
